@@ -23,6 +23,8 @@ See the Mulan PSL v2 for more details. */
 #include <time.h>
 
 #include <vector>
+#include <string>
+#include <unordered_map>
 
 #include "rc.h"
 
